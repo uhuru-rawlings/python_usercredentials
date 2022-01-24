@@ -13,3 +13,5 @@ In windows you will need to download python lastest version from python official
 ## RUNNING THE PROJECT
 The project runn in terminal, in the directory where your app is just open it in terminal and type python vrsion plus the name of the project which for this case is python3 run.py
 This will run the project in your terminal
+## HOW THE PROJECT LOOKS LIKE
+![screenshort.png](screenshort.png)
