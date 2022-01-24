@@ -12,3 +12,4 @@ $ sudo apt-get install python3.6
 In windows you will need to download python lastest version from python official website and install
 ## RUNNING THE PROJECT
 The project runn in terminal, in the directory where your app is just open it in terminal and type python vrsion plus the name of the project which for this case is python3 run.py
+This will run the project in your terminal
