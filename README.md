@@ -5,3 +5,7 @@ This is an app made with pyhton programming language, it allows user to store cr
 ## SET UP INSTRUCTION
 This project uses python so you need to install python.
 If you are using ubuntu it has python 3.6 installed, you can upgrade to another version or just used the same version
+to install pyhton in ubuntu terminal
+$ sudo add-apt-repository ppa:jonathonf/python-3.6
+$ sudo apt-get update
+$ sudo apt-get install python3.6
