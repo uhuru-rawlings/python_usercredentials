@@ -10,3 +10,5 @@ $ sudo add-apt-repository ppa:jonathonf/python-3.6
 $ sudo apt-get update
 $ sudo apt-get install python3.6
 In windows you will need to download python lastest version from python official website and install
+## RUNNING THE PROJECT
+The project runn in terminal
